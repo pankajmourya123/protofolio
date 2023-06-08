@@ -1,0 +1,29 @@
+three js is javascript library to make 3d animation
+it is very powerful library  
+
+
+jab hame react ke andhar ka link dena hai tab link use karenge  aur jab react ke bahar ka link dena ho tab href use karte hai
+target blank rakha kyuon ki naye tab kule gaa but hum underscore use aur baar clik kare toh naye tab kulegaa usi link ke liye but underscore ke baad usi tab be kolegaa
+scale propety hover
+inherite property perant inhert karta hai 
+hover backgroud-color-unset
+
+.footer > div > a
+
+.footer>div>a:nth-child(2):hover{
+    color:
+}
+
+
+  /* hum react ki trah import kar sake is liye type module kiya*/
+
+cookies are small data that are stored on a client side and sent to the client along with server request
+middleware are functions that are called between processing therequest and sending the response in your application method
+
+express.json()  to recognize the incoming Request object as a json
+express.urlencoded to recognize the incoming request object as strings or array 
+both are use in post and put method
+
+body parser wii take the body of your request and parse it to whatever you want your server to receive
+cookies parser will  parser the cookies header and handle the separation
+
